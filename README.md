@@ -7,4 +7,6 @@ Growth mindset is a perspective needed for effective learning.  Learning is in i
 
 * ### My name is Patrick Clarke, I like cats, role playing games and weightlifting. 
 
+[Patrick Clarke's GitHub](https://github.com/PatrickPatch)
+
 #### https://github.com/PatrickPatch
