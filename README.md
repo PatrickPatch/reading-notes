@@ -5,7 +5,7 @@ Growth mindset is a perspective needed for **effective** learning.  Learning is 
 * Learns from criticism
 * Is inspired by the success of others
 ---
-![Behold a cat](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/June_odd-eyed-cat_cropped.jpg/712px-June_odd-eyed-cat_cropped.jpg)
+![Behold a cat](https://github.com/PatrickPatch/reading-notes/blob/main/Goblin%20Box.jpg)
 ---
 * ### My name is Patrick Clarke, I like cats, role playing games and weightlifting. 
 ---
